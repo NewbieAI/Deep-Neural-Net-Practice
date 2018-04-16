@@ -2,7 +2,8 @@ import random
 import math
 import numpy as np
 
-
+# this file contains code that generates training data 
+# for the XOR function we want our neural net to learn
 
 def tabulate(dimension):
 # Creates a 2D array that tabulate every possible input
